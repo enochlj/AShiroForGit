@@ -12,6 +12,8 @@ public class Test01 {
 		System.out.println("HELLO testA - 11:02 FOR PUSH");
 		
 		System.out.println("HELLO testA - 11:04 FOR PUSH");
+		
+		System.out.println("HELLO testA - 11:05 FOR PUSH");
 
 	}
 
