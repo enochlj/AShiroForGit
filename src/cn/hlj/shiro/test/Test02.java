@@ -18,6 +18,8 @@ public class Test02 {
 		System.out.println("HELLO testB");
 
 		System.out.println("HELLO testB - 13:53 FOR PUSH");
+		
+		System.out.println("HELLO testB - 14:11 FOR PULL");
 	}
 
 }
