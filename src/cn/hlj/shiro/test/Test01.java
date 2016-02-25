@@ -8,6 +8,8 @@ public class Test01 {
 	public void testA() {
 
 		System.out.println("HELLO testA");
+		
+		System.out.println("HELLO testA - 11:02");
 
 	}
 
