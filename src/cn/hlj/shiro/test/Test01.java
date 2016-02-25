@@ -9,7 +9,9 @@ public class Test01 {
 
 		System.out.println("HELLO testA");
 		
-		System.out.println("HELLO testA - 11:02");
+		System.out.println("HELLO testA - 11:02 FOR PUSH");
+		
+		System.out.println("HELLO testA - 11:04 FOR PUSH");
 
 	}
 
